@@ -6,6 +6,10 @@
     text-align: center;
 }
 
+.nav-pills li{
+    margin: 5px;
+}
+
 .cool-color{
     background-color: #212529;
 }
